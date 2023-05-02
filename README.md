@@ -1,3 +1,5 @@
+# [Google Document Link](https://docs.google.com/document/d/1PD7HbthCdC2bi1N8swPWhJiwxt2HkpWaa7b_HMMTkE4/edit?usp=sharing)
+
 # Overview
 My goal for this project has been to have a complete understanding of what is necessary to implement secure peer to peer messaging on the blockchain, especially with the goal of preventing censorship. This comes with a couple main components. First is understanding the components of contracts, especially where data lives and how it can be written and read. Second is understanding the nature of the stored data as is relevant to sending and receiving messages, especially ‘secure’ messages. Third is understanding the technical requirements for keeping a message ‘uncensorable’.
 
