@@ -19,7 +19,7 @@ const abi = [
 const mainAddress = "0xA62f1EeA59FE325ac565c83DD71157a41B70C74c"
 
 function App() {
-    const [signer, setSigner] = useState<Signer>()
+    const [, setSigner] = useState<Signer>()
     const [, setProvider] = useState<Provider>()
     const [messages, setMessages] = useState<[string, string, string][]>([])
     const [mainContract, setMainContract] = useState<Contract | null>(null)
